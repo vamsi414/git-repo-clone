@@ -1,9 +1,9 @@
-class Integers 
+class hello123
 {
   public static void main(String[] arguments) 
   {
   
-    int c; //declaring a variable
+    int c; //declaring a variable   
  
   /* Using for loop to repeat instruction execution */
  
